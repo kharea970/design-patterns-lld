@@ -12,3 +12,12 @@ not need.
 
 ##### I - > DependencyInversion Principle
 class should depend on interface rather than concrete classes
+
+### Startegy Design Pattern
+when child shares the same capability which is not present in the base class.
+as the new feature comes we dont have to repeat code. 
+
+### Observer Design Pattern
+Question : implement amazon's notify me when stock becomes zero
+
+
