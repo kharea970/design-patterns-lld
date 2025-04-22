@@ -20,4 +20,7 @@ as the new feature comes we dont have to repeat code.
 ### Observer Design Pattern
 Question : implement amazon's notify me when stock becomes zero
 
+### Decorator Design Pattern
+
+
 
