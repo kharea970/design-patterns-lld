@@ -21,6 +21,9 @@ as the new feature comes we dont have to repeat code.
 Question : implement amazon's notify me when stock becomes zero
 
 ### Decorator Design Pattern
+### Factory Design Pattern
+### Abstract Factory Design Pattern
+factories of factories
 
 
 
